@@ -4,7 +4,7 @@ function randomLetter() {
     let index = Math.floor(Math.random() * letters.length);
     return letters[index];
   }
-  
+//add event listiner
   // A function to generate a random digit from 0 to 9
   function randomDigit() {
     return Math.floor(Math.random() * 10);
