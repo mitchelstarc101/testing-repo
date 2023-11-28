@@ -9,7 +9,8 @@ function randomLetter() {
   function randomDigit() {
     return Math.floor(Math.random() * 10);
   }
-  
+  let a=2;
+  console.log(a);
   // A function to generate a random fake PAN number
   function randomPAN() {
     let pan = "";
