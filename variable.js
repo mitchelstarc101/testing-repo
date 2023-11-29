@@ -8,4 +8,4 @@ console.log(str);
 const decimalValue=2.35
 
 console.log(decimalValue);
-console.log('this is new commit');
+console.log("this is github practice")
