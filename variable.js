@@ -11,3 +11,5 @@ console.log(decimalValue);
 console.log("this is github practice")
 
 console.log('Author Name:- Bhushan Trivedi')
+
+console.log("Git hub command");
