@@ -25,7 +25,7 @@ function randomLetter() {
     pan += randomLetter();
     return pan;
   }
-  
+console.log('this is mitchel starc');  
   // Test the function
   console.log(randomPAN());
   
